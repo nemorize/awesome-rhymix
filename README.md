@@ -38,6 +38,7 @@ XpressEngine 1.8 버전을 포크하여 진행되는 프로젝트로, 누구나 
 * [Sentry 모듈](https://github.com/rx-apps/sentry) - Sentry 서비스를 통해 에러를 수집하고 추적합니다.
 
 ## 애드온
+* [회원 가입시 그룹 자동 분류 애드온](https://xetown.com/download/1370824) - 사용자가 회원 가입 시 선택한 그룹을 자동으로 부여합니다.
 
 ## 위젯
 
