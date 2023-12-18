@@ -45,6 +45,13 @@ XpressEngine 1.8 버전을 포크하여 진행되는 프로젝트로, 누구나 
 
 ## 스킨
 
+## 기타
+
+### 개발자 유틸리티
+* [Tinkerwell 3.x Driver for Rhymix 2.x](https://github.com/nemorize/php-rhymix-tinkerwell-driver) - Tinkerwell 3.x에서 라이믹스 2.x를 인식할 수 있도록 돕습니다.
+* [라이믹스 모듈 생성기](https://www.poesis.org/tools/rxmodulegen/) - Rhymix 2.1.3 이상에서 동작하는 모듈 구조를 따르는 프로젝트를 자동으로 생성합니다.
+* [Rhymix CRUD Generator](https://tools.hoshi.no/crud_generator.php) - XE/라이믹스에서 매번 만들기 귀찮은 DB CRUD 쿼리를 자동으로 생성합니다.
+
 ## 셀러
 
 ### 모듈, 애드온 위주 셀러
