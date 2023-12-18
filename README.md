@@ -10,36 +10,15 @@ XpressEngine 1.8 버전을 포크하여 진행되는 프로젝트로, 누구나 
 ## 리소스
 
 ### 공식 웹사이트
-
 * [Rhymix Official](https://rhymix.org/)
 * [Rhymix GitHub 저장소](https://github.com/rhymix/rhymix)
 
 ### 커뮤니티
-
 * [XETOWN](https://xetown.com/)
 * [디스코드 - Rhymix Story](https://discord.gg/jTp5G3Txaa)
 * [라이믹스꿀팁](https://rxtip.kr/)
 
 ### 읽을만한 글
-
-### 셀러
-
-* [조니웹](https://bjrambo.com/)
-* [Chemistry](http://chemi.kr/market)
-* [디자인솔](https://www.designersol.co.kr/)
-* [이온디](https://eond.com/xemarket)
-* [GX디자인](https://gxeshop.ivyro.net/)
-* [MACARON DEV](https://macarondev.ixthus.kr/)
-* [문하우스](https://moonhouse.co.kr/buy)
-* [OTOCIN](https://otocin.dev/)
-* [휘즈](https://phiz.kr/)
-* [G-Shop (감자소프트)](https://potatosoft.kr/)
-* [스튜디오02](https://studio02.co.kr/)
-* [UIUI](https://uiui.io/)
-* [XNS](https://xenara.zaggu.net/product)
-* [XE+ (제이랩)](https://xeplus.io/)
-* [XE템플릿](https://xetemplate.com/)
-* [XSITELAB](http://xsitelab.com/)
 
 ## 모듈
 
@@ -62,3 +41,25 @@ XpressEngine 1.8 버전을 포크하여 진행되는 프로젝트로, 누구나 
 ## 레이아웃
 
 ## 스킨
+
+## 셀러
+
+### 모듈, 애드온 위주 셀러
+* [조니웹](https://bjrambo.com/)
+* [OTOCIN](https://otocin.dev/)
+* [G-Shop (감자소프트)](https://potatosoft.kr/)
+* [XE+ (제이랩)](https://xeplus.io/)
+
+### 레이아웃, 스킨 위주 셀러
+* [Chemistry](http://chemi.kr/market)
+* [디자인솔](https://www.designersol.co.kr/)
+* [이온디](https://eond.com/xemarket)
+* [GX디자인](https://gxeshop.ivyro.net/)
+* [MACARON DEV](https://macarondev.ixthus.kr/)
+* [문하우스](https://moonhouse.co.kr/buy)
+* [휘즈](https://phiz.kr/)
+* [스튜디오02](https://studio02.co.kr/)
+* [UIUI](https://uiui.io/)
+* [XNS](https://xenara.zaggu.net/product)
+* [XE템플릿](https://xetemplate.com/)
+* [XSITELAB](http://xsitelab.com/)
