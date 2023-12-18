@@ -43,6 +43,10 @@ XpressEngine 1.8 버전을 포크하여 진행되는 프로젝트로, 누구나 
 
 ## 레이아웃
 
+### 반응형 (PC+Mobile)
+* [FLEX 레이아웃](https://github.com/calvinsnax/rx-flex-layout)
+* [FLEXTAGRAM 테마](https://github.com/calvinsnax/rx-flextagram)
+
 ## 스킨
 
 ## 기타
