@@ -23,16 +23,16 @@ XpressEngine 1.8 버전을 포크하여 진행되는 프로젝트로, 누구나 
 ## 모듈
 
 ### 성능 향상
-* [슈퍼캐시 모듈](https://github.com/poesis/xe-supercache)
+* [슈퍼캐시 모듈](https://github.com/poesis/xe-supercache) - 전체화면 캐시, 게시판 목록/페이징/검색 캐시, 위젯 캐시 및 기타 편의기능들을 통해 서버의 부하를 줄입니다.
 
 ### SEO
-* [IndexNow 모듈](https://github.com/poesis/rhymix-indexnow) (RX>=2.1.3)
+* [IndexNow 모듈](https://github.com/poesis/rhymix-indexnow) (RX>=2.1.3) - IndexNow 프로토콜을 사용하여 검색엔진에 새 글을 등록 요청합니다.
 
 ### 이미지
-* [이미지프로세스 모듈](https://xetown.com/download/1773944)
+* [이미지프로세스 모듈](https://xetown.com/download/1773944) - 이미지 자료를 리사이징하거나, 로고/워터마크 등을 새겨 넣습니다.
 
 ### 기타
-* [Sentry 모듈](https://github.com/rx-apps/sentry)
+* [Sentry 모듈](https://github.com/rx-apps/sentry) - Sentry 서비스를 통해 에러를 수집하고 추적합니다.
 
 ## 애드온
 
