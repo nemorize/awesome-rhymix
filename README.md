@@ -52,6 +52,9 @@ XpressEngine 1.8 버전을 포크하여 진행되는 프로젝트로, 누구나 
 ### 이미지
 * [이미지프로세스 모듈](https://xetown.com/download/1773944)
 
+### 기타
+* [Sentry 모듈](https://github.com/rx-apps/sentry)
+
 ## 애드온
 
 ## 위젯
