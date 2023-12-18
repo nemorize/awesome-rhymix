@@ -43,6 +43,9 @@ XpressEngine 1.8 버전을 포크하여 진행되는 프로젝트로, 누구나 
 
 ## 모듈
 
+### 성능 향상
+* [슈퍼캐시 모듈](https://github.com/poesis/xe-supercache)
+
 ## 애드온
 
 ## 위젯
