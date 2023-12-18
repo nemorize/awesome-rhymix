@@ -49,6 +49,9 @@ XpressEngine 1.8 버전을 포크하여 진행되는 프로젝트로, 누구나 
 ### SEO
 * [IndexNow 모듈](https://github.com/poesis/rhymix-indexnow) (RX>=2.1.3)
 
+### 이미지
+* [이미지프로세스 모듈](https://xetown.com/download/1773944)
+
 ## 애드온
 
 ## 위젯
